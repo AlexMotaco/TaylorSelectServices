@@ -37,7 +37,7 @@
 }
 
 .main-menu a:hover{
-    color: #FAFF00 !important;
+    color: #ff0000 !important;
 }
 
 .col-lg-7.col-md-8,
@@ -126,7 +126,7 @@
 
     .mobile-menu .mean-nav .col-lg-3.scrollToLink a:hover{
         background-color: #FAFF00;
-        color: #ffffff;
+        color: #ff0000;
     }
 
     #hide-on-small-screen{
