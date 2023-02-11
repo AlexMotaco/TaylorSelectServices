@@ -60,18 +60,18 @@
     font-family: 'montserrat', sans-serif;
     font-weight: 700;
     font-size: 14px;
-    color: #050B31;
+    color: #000000;
 
-    border: 2px solid #050B31;
+    border: 2px solid #000000;
     border-radius: 22px;
     padding: 20px 40px;
     transition: all 0.3s ease-in-out;
 }
 
 .row .col-lg-3 a:hover{
-    background-color: #FF0000;
-    color: #050B31;
-    border: 2px solid #FF0000;
+    background-color: #FE0000;
+    color: #ffffff;
+    border: 2px solid #FE0000;
 }
 
 .mean-container .mean-nav{
