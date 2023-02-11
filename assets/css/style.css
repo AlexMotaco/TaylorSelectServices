@@ -28,7 +28,7 @@
 /* header-top-area */
 
 .header-menu .scroll-header .main-menu.transparent-menu ul li a {
-  color: #000000;
+  color: #000;
 }
 
 .scroll-header {
@@ -155,7 +155,7 @@
 
 .header-left-icon a:hover {
   background: #fff;
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .headers-left {
@@ -198,7 +198,7 @@
 }
 
 .header-rights a {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   color: #ffffff;
   font-family: Montserrat;
   font-size: 14px;
@@ -232,11 +232,11 @@ Home 4 Header Style
 
 .home-four .header-left-icon a {
   background-color: #fff;
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .home-four .header-left-icon a:hover {
-  background-color: #FE2525;
+  background-color: #FE0000;
   color: #fff;
 }
 
@@ -301,7 +301,7 @@ Home 4 Header Style
 
 .main-menu ul li:hover>a,
 .main-menu ul li.active>a {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .make-appointment {
@@ -309,7 +309,7 @@ Home 4 Header Style
 }
 
 .make-appointment a {
-  color: #FE2525;
+  color: #FE0000;
   font-size: 14px;
   font-weight: 400;
   margin-left: 9px;
@@ -326,7 +326,7 @@ Home 4 Header Style
 
 .menu-style-1 .main-menu ul li:hover>a,
 .main-menu ul li.active>a {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .main-menu.transparent-menu ul li>a {
@@ -340,7 +340,7 @@ Home 4 Header Style
 }
 
 .main-menu.transparent-menu ul li.active>a {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .header-menu-icon {
@@ -368,7 +368,7 @@ Home 4 Header Style
 }
 
 .header-menu-icon a:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
 }
 
@@ -377,7 +377,7 @@ Home 4 Header Style
 }
 
 .menu-icon a {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .header-menu .scroll-header .menu-icon a {
@@ -389,7 +389,7 @@ Home 4 Header Style
 
 .main-menu ul li .sub-menu {
   background: #ffffff none repeat scroll 0 0;
-  border-top: 3px solid #FE2525;
+  border-top: 3px solid #FE0000;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
   left: 0;
   opacity: 0;
@@ -429,7 +429,7 @@ Home 4 Header Style
 
 .main-menu ul li:hover>.sub-menu li>a:hover {
   color: #fff;
-  background: #FE2525;
+  background: #FE0000;
 }
 
 
@@ -449,7 +449,7 @@ Home 4 Header Style
 }
 
 .slider-text span {
-  color: #FE2525;
+  color: #FE0000;
   text-decoration: underline;
 }
 
@@ -462,7 +462,7 @@ Home 4 Header Style
 }
 
 .slider-text>a {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   border-radius: 7px;
   color: #ffffff;
   display: inline-block;
@@ -536,7 +536,7 @@ Home 4 Header Style
   border: 0px solid #ffffff;
   border-radius: 25px;
   color: #ffffff;
-  background-color: #FE2525;
+  background-color: #FE0000;
   display: inline-block;
   font-family: montserrat;
   font-size: 14px;
@@ -548,8 +548,8 @@ Home 4 Header Style
 }
 
 .slider-content a:hover {
-  background: #FE2525;
-  border-color: #FE2525;
+  background: #FE0000;
+  border-color: #FE0000;
 }
 
 .vh {
@@ -610,7 +610,7 @@ Home 4 Header Style
 }
 
 .home-content {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   margin: auto;
   padding: 62px 40px;
   width: 420px;
@@ -689,7 +689,7 @@ Home 4 Header Style
 }
 
 .home-text p::before {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -715,7 +715,7 @@ Home 4 Header Style
 }
 
 .section-title h4 {
-  color: #FE2525;
+  color: #FE0000;
   font-size: 14px;
   font-weight: 500;
   margin-bottom: 9px;
@@ -748,7 +748,7 @@ Home 4 Header Style
 }
 
 .service-wrapper:hover .service-icon-img {
-  background: #FE2525;
+  background: #FE0000;
 }
 
 .service-text {
@@ -770,7 +770,7 @@ Home 4 Header Style
 }
 
 .service-text h2 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .service-text p {
@@ -816,8 +816,8 @@ Home 4 Header Style
 }
 
 .service-text>a:hover {
-  color: #FE2525;
-  border-color: #FE2525;
+  color: #FE0000;
+  border-color: #FE0000;
 }
 
 .service-content {
@@ -832,12 +832,12 @@ Home 4 Header Style
 }
 
 .service-content h2 a {
-  color: #FE2525;
+  color: #FE0000;
   transition: .3s;
 }
 
 .service-content h2 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .service-content p {
@@ -859,7 +859,7 @@ Home 4 Header Style
 }
 
 .service-content a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 
@@ -882,7 +882,7 @@ Home 4 Header Style
 }
 
 .testimonial-wrapper:hover .testimonial-img>img {
-  border-color: #FE2525;
+  border-color: #FE0000;
 }
 
 .testimonial-text {
@@ -934,7 +934,7 @@ Home 4 Header Style
 }
 
 .testimonial-active .owl-dot.active {
-  background: #FE2525;
+  background: #FE0000;
 }
 
 
@@ -1030,7 +1030,7 @@ Home 4 Header Style
 }
 
 .work-text h3 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .work-text span {
@@ -1069,7 +1069,7 @@ Home 4 Header Style
 }
 
 .works-active:hover .owl-nav div:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
   border: #fff;
 }
@@ -1110,7 +1110,7 @@ Home 4 Header Style
 }
 
 .blog-info a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .blog-info p {
@@ -1162,7 +1162,7 @@ Home 4 Header Style
 }
 
 .blog-title a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .blog-title>p {
@@ -1181,7 +1181,7 @@ Home 4 Header Style
 }
 
 .blog-date span i:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 
@@ -1236,7 +1236,7 @@ Home 4 Header Style
 }
 
 .footer-menu li a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .footer-link li {
@@ -1257,7 +1257,7 @@ Home 4 Header Style
 }
 
 .footer-link li i {
-  color: #FE2525;
+  color: #FE0000;
   width: 15px;
 }
 
@@ -1317,7 +1317,7 @@ Home 4 Header Style
 }
 
 .footer-icon a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .footer-bottom-1 .footer-icon a:hover {
@@ -1338,7 +1338,7 @@ Home 4 Header Style
 }
 
 .offer-tab li a.active .offer-icon {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
 }
 
 .offer-tab li:last-child {
@@ -1346,7 +1346,7 @@ Home 4 Header Style
 }
 
 .offer-list {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   overflow: hidden;
 }
 
@@ -1399,7 +1399,7 @@ Home 4 Header Style
 }
 
 .offer-tab li a.active .offer-text>span {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .offer-wrapper.ptb-100 {
@@ -1427,7 +1427,7 @@ Home 4 Header Style
 }
 
 .tab-menu>li::before {
-  color: #FE2525;
+  color: #FE0000;
   content: "";
   font-family: Material-Design-Iconic-Font;
   font-size: 16px;
@@ -1447,7 +1447,7 @@ Home 4 Header Style
 }
 
 .offer-content>a {
-  color: #FE2525;
+  color: #FE0000;
   display: inline-block;
   font-family: Montserrat;
   font-size: 14px;
@@ -1479,8 +1479,8 @@ Home 4 Header Style
 }
 
 .offer-content>a:hover {
-  color: #FE2525;
-  border-color: #FE2525;
+  color: #FE0000;
+  border-color: #FE0000;
 }
 
 
@@ -1491,7 +1491,7 @@ Home 4 Header Style
 }
 
 .section-info h2 {
-  color: #FE2525;
+  color: #FE0000;
   font-size: 36px;
   font-weight: 700;
   line-height: 32px;
@@ -1523,12 +1523,12 @@ Home 4 Header Style
 }
 
 .portfolio-menu button:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .portfolio-menu button.active {
-  border-bottom: 2px solid #FE2525;
-  color: #FE2525;
+  border-bottom: 2px solid #FE0000;
+  color: #FE0000;
 }
 
 
@@ -1547,7 +1547,7 @@ Home 4 Header Style
 }
 
 .team-text {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   bottom: 0;
   left: 0;
   padding: 25px;
@@ -1641,8 +1641,8 @@ Home 4 Header Style
 }
 
 .our-services-wrapper:hover .our-services-icon {
-  background: #FE2525;
-  box-shadow: 0 0 0 2px #FE2525;
+  background: #FE0000;
+  box-shadow: 0 0 0 2px #FE0000;
   color: #fff;
 }
 
@@ -1661,11 +1661,11 @@ Home 4 Header Style
 }
 
 .our-services-text>h3 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .our-services-text>h3::before {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 3px;
@@ -1773,7 +1773,7 @@ Home 4 Header Style
 }
 
 #contact-form button {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   border: medium none;
   color: #ffffff;
   font-family: Montserrat;
@@ -1816,7 +1816,7 @@ Home 4 Header Style
 
 .contact-icon i {
   font-size: 30px;
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .contact-icon-text h3 {
@@ -1887,8 +1887,8 @@ Home 4 Header Style
 }
 
 .contact-3-icon i:hover {
-  background: #FE2525;
-  border-color: #FE2525;
+  background: #FE0000;
+  border-color: #FE0000;
   color: #fff;
 }
 
@@ -1997,7 +1997,7 @@ Home 4 Header Style
 }
 
 .about-text h2 span {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .about-text h4 {
@@ -2077,7 +2077,7 @@ Home 4 Header Style
 
 .action-text a {
   background: #ffffff none repeat scroll 0 0;
-  color: #FE2525;
+  color: #FE0000;
   display: inline-block;
   font-family: Montserrat;
   font-size: 14px;
@@ -2089,7 +2089,7 @@ Home 4 Header Style
 }
 
 .action-text a:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
 }
 
@@ -2133,7 +2133,7 @@ Home 4 Header Style
 }
 
 .project-details-active:hover .owl-nav div:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
   border: #fff;
 }
@@ -2200,7 +2200,7 @@ Home 4 Header Style
 }
 
 .deatils-menu li::before {
-  color: #FE2525;
+  color: #FE0000;
   content: "";
   font-family: Material-Design-Iconic-Font;
   font-size: 16px;
@@ -2226,13 +2226,13 @@ Home 4 Header Style
 /* pricing-area */
 
 .pricing-wrapper {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   border-radius: 23px;
   transition: .3s;
 }
 
 .pricing-wrapper:hover {
-  background: #FE2525;
+  background: #FE0000;
 }
 
 .pricing-top {
@@ -2278,7 +2278,7 @@ Home 4 Header Style
 }
 
 .pricing-btn>a {
-  background: #FE2525 none repeat scroll 0 0;
+  background: #FE0000 none repeat scroll 0 0;
   border-radius: 10px;
   color: #ffffff;
   display: inline-block;
@@ -2292,7 +2292,7 @@ Home 4 Header Style
 
 .pricing-wrapper:hover .pricing-btn>a {
   background: #fff;
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .project-details-img-wrapper>img {
@@ -2392,7 +2392,7 @@ Home 4 Header Style
 }
 
 .post-title>a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .post-title {
@@ -2449,8 +2449,8 @@ Home 4 Header Style
 }
 
 .read-more a:hover {
-  background: #FE2525;
-  border-color: #FE2525;
+  background: #FE0000;
+  border-color: #FE0000;
   color: #ffffff;
 }
 
@@ -2481,7 +2481,7 @@ Home 4 Header Style
 }
 
 .blog-thumb-active:hover .owl-nav div:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
   border: #fff;
 }
@@ -2544,7 +2544,7 @@ Home 4 Header Style
 }
 
 .blog-widget-icon>a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .blog-widget-icon>a:last-child {
@@ -2585,7 +2585,7 @@ Home 4 Header Style
 }
 
 .search-form button:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .widget-title {
@@ -2652,7 +2652,7 @@ Home 4 Header Style
 }
 
 .widget-posts-title>a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .blog-categories>li {
@@ -2684,7 +2684,7 @@ Home 4 Header Style
 }
 
 .blog-categories a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .count {
@@ -2735,7 +2735,7 @@ Home 4 Header Style
 }
 
 .recent-comment-text h4 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .recent-meta span {
@@ -2824,7 +2824,7 @@ Home 4 Header Style
 }
 
 .news-form button:hover {
-  background: #FE2525;
+  background: #FE0000;
   ;
 }
 
@@ -2865,7 +2865,7 @@ Home 4 Header Style
 }
 
 .tweets-icon-tittle h5 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .tweets-icon-tittle>p {
@@ -2889,7 +2889,7 @@ Home 4 Header Style
 }
 
 .Social-icon>a:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
 }
 
@@ -2918,8 +2918,8 @@ Home 4 Header Style
 }
 
 .tag li a:hover {
-  background: #FE2525;
-  border-color: #FE2525;
+  background: #FE0000;
+  border-color: #FE0000;
   color: #fff;
 }
 
@@ -3027,7 +3027,7 @@ blockquote {
 }
 
 .next-prev a:hover {
-  background-color: #FE2525;
+  background-color: #FE0000;
   color: #ffffff;
 }
 
@@ -3069,7 +3069,7 @@ a.next-btn {
 }
 
 .author-info>h4 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .author-info {
@@ -3135,7 +3135,7 @@ a.next-btn {
 }
 
 .related-post-title>h3 a:hover {
-  color: #FE2525;
+  color: #FE0000;
 }
 
 .related-post-title>span {
@@ -3206,9 +3206,9 @@ a.next-btn {
 }
 
 .comment-text>a:hover {
-  background-color: #FE2525;
+  background-color: #FE0000;
   color: #ffffff;
-  border-color: #FE2525;
+  border-color: #FE0000;
 }
 
 .replay-comment {
@@ -3269,8 +3269,8 @@ a.next-btn {
 }
 
 .leave-comment-form .submit {
-  background-color: #FE2525;
-  border: 1px solid #FE2525;
+  background-color: #FE0000;
+  border: 1px solid #FE0000;
   color: #ffffff;
   display: inline-block;
   font-size: 16px;
@@ -3300,6 +3300,6 @@ a.next-btn {
 }
 
 #scrollUp:hover {
-  background: #FE2525;
+  background: #FE0000;
   color: #fff;
 }
